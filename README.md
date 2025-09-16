@@ -1,4 +1,4 @@
-## 👋 Hi, I'm Jie Xu (@bugisthegod)
+## 👋 Hi, I'm Abel Xu (@bugisthegod)
 
 🎯 **Full-Stack Software Engineer** specializing in enterprise Java applications and modern web development
 
