@@ -1,5 +1,5 @@
-<h1 align="center">Hi there, I'm Abel Xu 👋</h1>
-<h3 align="center">Full-Stack Software Engineer & Chief Bug Wrangler 🇮🇪</h3>
+<h1 align="center">Hi, I'm Abel Xu 👋</h1>
+<h3 align="center">Full-Stack Software Engineer 🇮🇪</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=bugisthegod&label=Profile%20Views&color=0e75b6&style=flat" alt="bugisthegod" />
@@ -7,26 +7,20 @@
 
 ---
 
-### 🧐 Why "bugisthegod"?
-Because in the world of software, the Bug is the only true constant. We don't just fix bugs; we make sacrifices to them. 🐛🙏
-*(Just kidding, I actually squash them with extreme prejudice using TDD and a lot of caffeine.)*
-
----
-
 ### 🚀 About Me
-I'm a Full-Stack Software Engineer based in Dublin, Ireland. I specialize in building enterprise applications that are scalable, reliable, and shiny enough to distract you from the fact that I'm actually just moving JSON from one place to another.
+Full-Stack Engineer based in Dublin, Ireland, specializing in scalable enterprise applications.
 
-- 🛒 **Current Obsession:** Building **[TechMart](https://techmart-shop.vercel.app/)**, an e-commerce ecosystem so powerful it needs its own distributed rate limiting just to handle my enthusiasm.
-  - **Live Demo:** [techmart-shop.vercel.app](https://techmart-shop.vercel.app/)
-  - **Backend:** Spring Boot, Redis, RabbitMQ (because who doesn't love a good message queue party?)
-  - **Frontend:** React, Vite, shadcn/ui (making things look pretty is half the battle)
-- 🏗️ **Superpowers:** Microservices, turning spaghetti code into lasagna (layers!), and explaining to non-tech people why "it works on my machine" is a valid legal defense.
-- 🌱 **Learning:** Cloud-native architecture & Advanced System Design (a.k.a. how to make things fail gracefully).
-- 🏸 **AFK:** You'll find me dominating the badminton court or optimizing my pint-lifting algorithm at the pub. 🍺
+🔍 **Open to new opportunities** - Looking for full-stack or backend roles
+
+- 🛒 **Current Project:** [TechMart](https://techmart-shop.vercel.app/) - E-commerce platform with microservices architecture
+  - Backend: Spring Boot, Redis, RabbitMQ
+  - Frontend: React, Vite, shadcn/ui
+- 🌱 Learning: Cloud-native architecture & System Design
+- 🏸 Outside code: Badminton & exploring Dublin
 
 ---
 
-### ⚔️ Weapons of Choice
+### 💻 Tech Stack
 <p align="left">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
@@ -42,7 +36,7 @@ I'm a Full-Stack Software Engineer based in Dublin, Ireland. I specialize in bui
 
 ---
 
-### 📫 Summon Me
+### 📫 Contact
 <p align="left">
   <a href="https://linkedin.com/in/abelxu" target="blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
