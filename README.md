@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Abel Xu 👋</h1>
+<h1 align="center">Hi, I'm Abel 👋</h1>
 <h3 align="center">Full-Stack Software Engineer 🇮🇪</h3>
 
 <p align="center">
@@ -8,15 +8,13 @@
 ---
 
 ### 🚀 About Me
-Full-Stack Engineer based in Dublin, Ireland, specializing in scalable enterprise applications.
+I'm a **Full-Stack Software Engineer** based in **Dublin, Ireland** 🇮🇪, specializing in building scalable enterprise applications and microservices.
 
-🔍 **Open to new opportunities** - Looking for full-stack or backend roles
-
-- 🛒 **Current Project:** [TechMart](https://techmart-shop.vercel.app/) - E-commerce platform with microservices architecture
-  - Backend: Spring Boot, Redis, RabbitMQ
-  - Frontend: React, Vite, shadcn/ui
-- 🌱 Learning: Cloud-native architecture & System Design
-- 🏸 Outside code: Badminton & exploring Dublin
+- 🔭 **I’m currently working on:** [TechMart](https://techmart-shop.vercel.app/) - A comprehensive E-commerce platform
+  - **Stack:** Spring Boot, Redis, RabbitMQ, React, Vite, shadcn/ui
+- 🤝 **I’m currently contributing to:** [Twenty CRM](https://github.com/twentyhq/twenty) - The #1 Open-Source CRM
+- 💼 **I’m looking for:** Full-stack or Backend engineering roles
+- ⚡ **Fun fact:** I love playing Badminton 🏸 and exploring Dublin!
 
 ---
 
@@ -27,6 +25,7 @@ Full-Stack Engineer based in Dublin, Ireland, specializing in scalable enterpris
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
   <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" />
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
