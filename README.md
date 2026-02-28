@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Abel 👋</h1>
 
 <p align="center">
-  Software Engineer based in Dublin 🇮🇪, currently building <a href="https://techmart-shop.vercel.app/">TechMart</a> and contributing to <a href="https://github.com/twentyhq/twenty">Twenty CRM</a>.
+  Software Engineer based in Dublin 🇮🇪, currently contributing to <a href="https://github.com/twentyhq/twenty">Twenty CRM</a>.
 </p>
 
 <p align="center">
