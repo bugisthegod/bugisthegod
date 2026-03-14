@@ -12,7 +12,3 @@
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Email" />
   </a>
 </p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=bugisthegod&label=Profile%20Views&color=0e75b6&style=flat" alt="bugisthegod" />
-</p>
